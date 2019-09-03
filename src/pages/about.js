@@ -12,7 +12,7 @@ const AboutPage = () => {
             <p>I currently volunteer to teach people programming</p>
             <p>I have knowledge in the following technologies </p>
             <ul>
-                <li>JavaScript (React and Angular 2+)</li>
+                <li>JavaScript (React, Angular 2+ and Ionic)</li>
                 <li>Python (Werkzeug, Flask) </li>
                 <li>NodeJs</li>
                 <li>Socket.io</li>
