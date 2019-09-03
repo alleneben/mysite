@@ -33,6 +33,13 @@ const ProjectPage = () => {
                     </a>
                 </li>
                 <li className={blogstyle.post}>
+                    {/* <h2>{edge.node.frontmatter.title}</h2> */}
+                    {/* <p>{edge.node.frontmatter.date}</p> */}
+                    <a href="https://pwamobile.themaduka.com/" target="_blank" rel="noopener noreferrer">
+                        My Profile site using Gatsby and GraphQL
+                    </a>
+                </li>
+                <li className={blogstyle.post}>
                     <a  target="_blank" rel="noopener noreferrer">
                         Others are freelance jobs including
                     <ul>

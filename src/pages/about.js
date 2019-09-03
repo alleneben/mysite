@@ -21,6 +21,7 @@ const AboutPage = () => {
                 <li>PostgreSQL</li>
                 <li>MySQL</li>
                 <li>MongoDB</li>
+                <li>GraphQL</li>
             </ul>
             <p><Link to="/contact">Want to work with me? reach out</Link></p>
         </Layout>
