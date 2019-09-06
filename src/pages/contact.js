@@ -12,13 +12,16 @@ const ContactPage = () => {
                 <a href="https://twitter.com/@AAlleneben" target="_blank" rel="noopener noreferrer">
                     @AAlleneben 
                 </a> 
-                &nbsp; on Twitter, 
-                &nbsp; alleneben@gmail.com or hit me up on +233209783485 or +233277686939
+                &nbsp; on Twitter or 
+                &nbsp; alleneben@gmail.com via email
             </p>
             <p> My github account is &nbsp;
                 <a href="https://github.com/alleneben" target="_blank" rel="noopener noreferrer">
                 @alleneben
                 </a> 
+            </p>
+            <p>
+                You can hit me up on +233209783485 or +233277686939
             </p>
         </Layout>
     )
