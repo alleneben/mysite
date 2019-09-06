@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Full-Stack Web Developer/Mathematics Major`,
+    title: `Fullstack Web Developer, Programmer and Mathematics Major`,
     author: `Allen Eben`,
   },
   plugins: [
