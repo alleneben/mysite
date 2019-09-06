@@ -13,8 +13,7 @@ const Layout = (props) => {
                 <Header />
                 <div className={layoutstyles.content}>
                     { props.children }
-                </div>
-                    
+                </div> 
             </div>
             <Footer />
         </div>
