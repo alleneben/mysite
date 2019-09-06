@@ -12,7 +12,7 @@ const AboutPage = () => {
             <p>I currently volunteer to teach people programming</p>
             <p>I have knowledge in the following technologies </p>
             <ul>
-                <li>JavaScript (React, Angular 2+ and Ionic)</li>
+                <li>JavaScript (React,Gatsby, Angular 2+ and Ionic)</li>
                 <li>Python (Werkzeug, Flask) </li>
                 <li>NodeJs</li>
                 <li>Socket.io</li>
@@ -22,6 +22,7 @@ const AboutPage = () => {
                 <li>MySQL</li>
                 <li>MongoDB</li>
                 <li>GraphQL</li>
+                <li>Git version control</li>
             </ul>
             <p><Link to="/contact">Want to work with me? reach out</Link></p>
         </Layout>
