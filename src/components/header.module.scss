@@ -1,16 +1,27 @@
-.header {
-    padding: 1rem 0 3rem;
-}
-
 .title {
     color: #000000;
     font-size: 2rem;
     text-decoration: none;
 }
+
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem 0 3rem;
+
+    h1 {
+        text-align: center;
+    }
+}
 .nav-list {
     display: flex;
+    flex-wrap: wrap;
+    order: 1;
+    width: 100%;
+    margin-top: 15px;
     list-style-type: none;
-    margin: 0;
 }
 .nav-item {
     color: #999999;
