@@ -21,15 +21,16 @@ const ProjectPage = () => {
                 <li className={blogstyle.post}>
                     {/* <h2>{edge.node.frontmatter.title}</h2> */}
                     {/* <p>{edge.node.frontmatter.date}</p> */}
-                    <a href="http://asset.gra.themaduka.com/" target="_blank" rel="noopener noreferrer">
+                    <a href="http://asset.gra.kitchencarelimited.com" target="_blank" rel="noopener noreferrer">
                         Asset Manager built with React, PHP and PostgreSQL
                     </a>
                 </li>
                 <li className={blogstyle.post}>
                     {/* <h2>{edge.node.frontmatter.title}</h2> */}
                     {/* <p>{edge.node.frontmatter.date}</p> */}
-                    <a href="http://pwamobile.themaduka.com/" target="_blank" rel="noopener noreferrer">
-                        A school app to check results etc. The app is best viewed on a mobile device.
+                    <a href="http://worktimer.kitchencarelimited.com" target="_blank" rel="noopener noreferrer">
+                        Job Timer: The project was requested by a client to compute the amount of time spent on
+                        a customers job and the bill the customer
                     </a>
                 </li>
                 <li className={blogstyle.post}>
