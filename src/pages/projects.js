@@ -14,6 +14,20 @@ const ProjectPage = () => {
                 <li className={blogstyle.post}>
                     {/* <h2>{edge.node.frontmatter.title}</h2> */}
                     {/* <p>{edge.node.frontmatter.date}</p> */}
+                    <a href="https://allenebensimplelayout.netlify.com/" target="_blank" rel="noopener noreferrer">
+                        Simple Responsive Layout
+                    </a>
+                </li>
+                <li className={blogstyle.post}>
+                    {/* <h2>{edge.node.frontmatter.title}</h2> */}
+                    {/* <p>{edge.node.frontmatter.date}</p> */}
+                    <a href="https://allenebendashborad.netlify.com/" target="_blank" rel="noopener noreferrer">
+                        Responsive Dashboard Layout
+                    </a>
+                </li>
+                <li className={blogstyle.post}>
+                    {/* <h2>{edge.node.frontmatter.title}</h2> */}
+                    {/* <p>{edge.node.frontmatter.date}</p> */}
                     <a href="https://react-store-allen.netlify.com/" target="_blank" rel="noopener noreferrer">
                         Ecommerce with React
                     </a>
