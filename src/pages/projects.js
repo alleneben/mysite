@@ -12,6 +12,11 @@ const ProjectPage = () => {
             {/* <p></p> */}
             <ol className={blogstyle.posts}>
                 <li className={blogstyle.post}>
+                    <a href="https://alllenebenhospital.netlify.com/" target="_blank" rel="noopener noreferrer">
+                        Smart Hospital (React,Firebase::In Progress)
+                    </a>
+                </li>
+                <li className={blogstyle.post}>
                     {/* <h2>{edge.node.frontmatter.title}</h2> */}
                     {/* <p>{edge.node.frontmatter.date}</p> */}
                     <a href="https://allenebensimplelayout.netlify.com/" target="_blank" rel="noopener noreferrer">
@@ -19,10 +24,8 @@ const ProjectPage = () => {
                     </a>
                 </li>
                 <li className={blogstyle.post}>
-                    {/* <h2>{edge.node.frontmatter.title}</h2> */}
-                    {/* <p>{edge.node.frontmatter.date}</p> */}
                     <a href="https://allenebendashborad.netlify.com/" target="_blank" rel="noopener noreferrer">
-                        Responsive Dashboard Layout
+                        Responsive Dashboard Layout (React, PostgreSQL, Python::In Progress)
                     </a>
                 </li>
                 <li className={blogstyle.post}>
@@ -36,7 +39,7 @@ const ProjectPage = () => {
                     {/* <h2>{edge.node.frontmatter.title}</h2> */}
                     {/* <p>{edge.node.frontmatter.date}</p> */}
                     <a href="http://asset.gra.kitchencarelimited.com" target="_blank" rel="noopener noreferrer">
-                        Asset Manager built with React, PHP and PostgreSQL
+                        Asset Manager built with (React,PostgreSQL,PHP::In Progress) 
                     </a>
                 </li>
                 <li className={blogstyle.post}>
@@ -44,12 +47,10 @@ const ProjectPage = () => {
                     {/* <p>{edge.node.frontmatter.date}</p> */}
                     <a href="http://worktimer.kitchencarelimited.com" target="_blank" rel="noopener noreferrer">
                         Job Timer: The project was requested by a client to compute the amount of time spent on
-                        a customers job and the bill the customer
+                        a customers job and the bill the customer (React,PostgreSQL,PHP::In Progress)
                     </a>
                 </li>
                 <li className={blogstyle.post}>
-                    {/* <h2>{edge.node.frontmatter.title}</h2> */}
-                    {/* <p>{edge.node.frontmatter.date}</p> */}
                     <a href="https://oppongsuccess.netlify.com" target="_blank" rel="noopener noreferrer">
                         I assisted in the construction of this profile site.
                     </a>
@@ -58,7 +59,7 @@ const ProjectPage = () => {
                     {/* <h2>{edge.node.frontmatter.title}</h2> */}
                     {/* <p>{edge.node.frontmatter.date}</p> */}
                     <a href="https://alleneben.netlify.com/" target="_blank" rel="noopener noreferrer">
-                        My Profile site using Gatsby and GraphQL
+                        My Profile site using Gatsby and GraphQL (In Progress)
                     </a>
                 </li>
                 <li className={blogstyle.post}>
